@@ -1,4 +1,4 @@
-# Deep Learning Phase 5 — Seven Notebooks from Perceptrons to Transfer Learning
+# Deep Learning  — Seven Notebooks from Perceptrons to Transfer Learning
 
 A structured, hands-on deep learning curriculum built in Python and PyTorch,
 covering seven core topics with full explanatory markdowns, working code, and
@@ -200,7 +200,7 @@ framework for choosing the right transfer learning strategy on new tasks.
 ## Author
 
 Dhara Shah
-AI/ML Developer — ePGDip AI & DS, SJMSOM IIT Bombay
+AI/ML Engineer — ePGD AI & DS, IIT Bombay
 
 ---
 

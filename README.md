@@ -112,14 +112,14 @@ cd DeepLearningPhase5
 poetry install
 
 # register the kernel
-poetry run python -m ipykernel install --user --name=dl-phase5 --display-name "Deep Learning Phase 5"
+poetry run python -m ipykernel install --user --name=dl-phase5 --display-name "Deep Learning"
 
 # launch JupyterLab
 poetry run jupyter lab
 ```
 
 Open any notebook from the `notebooks/` folder and select the
-**Deep Learning Phase 5** kernel.
+**Deep Learning** kernel.
 
 **Note on datasets:**
 Most datasets download automatically on first run via torchvision or HuggingFace.

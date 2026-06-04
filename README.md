@@ -105,8 +105,8 @@ DeepLearningPhase5/
 
 ```powershell
 # clone the repo
-git clone https://github.com/YOUR_USERNAME/DeepLearningPhase5.git
-cd DeepLearningPhase5
+git clone https://github.com/dharadshah/deeplearning.git
+cd deeplearning
 
 # install dependencies
 poetry install

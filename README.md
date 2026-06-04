@@ -81,7 +81,7 @@ each component computes and why it is designed the way it is.
 ## Project Structure
 
 ```
-DeepLearningPhase5/
+deeplearning/
 ├── notebooks/
 │   ├── 01_neural_networks.ipynb
 │   ├── 02_pytorch_keras.ipynb
